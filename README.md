@@ -1,7 +1,7 @@
 #  Sistema de Gestion del Area de Fiscalizacion Backend
 
 Este proyecto fue desarrollado durante mi participación en la Municipalidad de San Juan de Lurigancho.  
-El repositorio original pertenecía a un equipo de trabajo, pero 
+El repositorio original pertenecía a un equipo de trabajo
 
 ##  Tecnologías
 - Node.js
@@ -10,9 +10,8 @@ El repositorio original pertenecía a un equipo de trabajo, pero
 - Sequelize
 
 ##  Mi participación
-- Desarrollo del backend completo (rutas, controladores, modelos Sequelize).
+- Desarrollo del backend  (rutas, controladores, modelos Sequelize).
 - Diseño de la base de datos en PostgreSQL.
-- Integración con frontend en React (API REST).
 
 ##  Nota
 El código base es de uso demostrativo para portafolio.  
